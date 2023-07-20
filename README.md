@@ -20,9 +20,17 @@ Learning HTML
     <td>Activity-2</td>
     <td>Understanding of Internal JavaScript</td>
   </tr>
+  
   <tr>
     <td>3</td>
     <td>Activity-3</td>
     <td>Understanding of External JavaScript</td>
   </tr>
+  <tr>
+    <td>4</td>
+    <td>Activity-4</td>
+    <td>Understanding NoScript Tag</td>
+
+  </tr>
+
 </table>
