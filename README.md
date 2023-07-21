@@ -36,6 +36,9 @@ Learning HTML
     <td>5</td>
     <td>Activity-5</td>
     <td>Craeate a External CSS, and link it using Link Tag</td>
+   <td>6</td>
+    <td>Activity-6</td>
+    <td>Insert the Icon for Web Documents</td>
 
   </tr>
 
