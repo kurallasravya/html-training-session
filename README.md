@@ -32,5 +32,11 @@ Learning HTML
     <td>Understanding NoScript Tag</td>
 
   </tr>
+  <tr>
+    <td>5</td>
+    <td>Activity-5</td>
+    <td>Craeate a External CSS, and link it using Link Tag</td>
+
+  </tr>
 
 </table>
