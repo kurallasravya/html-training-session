@@ -45,6 +45,10 @@ Learning HTML
    
 <td>7</td>
     <td>Activity-7</td>
-    <td>Title for Web Document</td>
+    <td>Internal style sheet</td>
+  </tr>
+  <td>8</td>
+    <td>Activity-8</td>
+    <td></td>
   </tr>
 </table>
