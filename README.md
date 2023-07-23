@@ -50,15 +50,13 @@ Learning HTML
   <tr>
   <td>8</td>
     <td>Activity-8</td>
-<<<<<<< HEAD
+
     <td>Creating Internal style Sheet</td>
   </tr>
   <tr>
    <td>9</td>
     <td>Activity-9</td>
     <td>Redirect your web document after 5 seconds to another website</td>
-=======
-    <td>Craeting Internal Style Tag</td>
->>>>>>> 28ac8cefd7b47994d7006a055349d383ce495358
+  </tr>
   </tr>
 </table>
