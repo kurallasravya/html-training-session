@@ -42,13 +42,19 @@ Learning HTML
     <td>Activity-6</td>
     <td>Insert the Icon for Web Documents</td>
   </tr>
-   
+   <tr>
 <td>7</td>
     <td>Activity-7</td>
     <td>Internal style sheet</td>
   </tr>
+  <tr>
   <td>8</td>
     <td>Activity-8</td>
-    <td></td>
+    <td>Creating Internal style Sheet</td>
+  </tr>
+  <tr>
+   <td>9</td>
+    <td>Activity-9</td>
+    <td>Redirect your web document after 5 seconds to another website</td>
   </tr>
 </table>
