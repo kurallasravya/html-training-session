@@ -49,6 +49,6 @@ Learning HTML
   </tr>
   <td>8</td>
     <td>Activity-8</td>
-    <td></td>
+    <td>Craeting Internal Style Tag</td>
   </tr>
 </table>
