@@ -83,5 +83,10 @@ Learning HTML
     <td>Activity-14</td>
     <td>Provide Border to the Same Table </td>
   </tr>
+  <tr>
+   <td>15</td>
+    <td>Activity-15</td>
+    <td>Headings from H1 TO H6</td>
+  </tr>
   </tr>
 </table>
