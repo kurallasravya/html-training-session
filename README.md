@@ -88,5 +88,10 @@ Learning HTML
     <td>Activity-15</td>
     <td>Headings from H1 TO H6</td>
   </tr>
+  <tr>
+   <td>16</td>
+    <td>Activity-16</td>
+    <td>Paragraphs in HTML</td>
+  </tr>
   </tr>
 </table>
